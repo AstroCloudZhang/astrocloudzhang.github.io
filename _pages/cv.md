@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Astronomy, Peking University, 2014 - Present
+* H.S. Xiangyang NO.5 High School, 2011 - 2014 [Graduate with Honors(<5%)]
 
-Work experience
+Internship 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Visiting Scholarship
+  * University of California Santa Cruz
+  * Supervisor: Prof. Puragra Guha Thakurta
+  * Funding: Chinese Scholarship Council
   
+* Summer 2017: Visiting Scholarship
+  * University of California Santa Cruz
+  * Supervisor: Prof. Puragra Guha Thakurta
+  * Funding: School of Physics, Peking University
+  
+Research Experience
+======
+* Dust Emission and Star Formation Rates in High Redshift Weak Line Quasars
+  * Supervisor: Prof. Ran Wang
+  * 2016 - Present
+
 Skills
 ======
 * Skill 1
