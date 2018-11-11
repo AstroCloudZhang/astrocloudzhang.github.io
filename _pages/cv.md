@@ -53,7 +53,7 @@ Relevant Courses
 
  
 
-Skills
+Computer Skills
 ======
 * Skilled in IDL and Python.  Past work can be found on github https://github.com/AstroCloudZhang
 * Familiar with C; HTML; SQL; Mathematica; Matlab
@@ -61,24 +61,63 @@ Skills
 * Experience with image data reduction in the optical and near infrared (e.g.  IRAF, GALFIT, SEx-tractor, Daophot, Tinytim etc.)
 * Experience with data processing in the far infrared, millimeter and radio (e.g.  HIPE, CASA, AIPSetc.)
 
+Honors and Awards
+=====
+* First Prize of Linbridge Prize for Excellent Undergraduate Research Project in Astronomy and Astrophysics, Peking University, 2018
+* Second  Prize  of  Linbridge  Prize  for  Excellent  Undergraduate  Research  Project  in  Astronomy  andAstrophysics, Peking University, 2017
+* Third  Prize  of  Linbridge  Prize  for  Excellent  Undergraduate  Research  Project  in  Astronomy  andAstrophysics, Peking University, 2016
+* Excellent Student Leader, Peking University, 2016
+* Scholarship of National Astronomical Observatory, Chinese Academy of Science, 2015
+
+Approved Proposals
+======
+* Proposal ID: VLA/17B-071(Co-I)
+  * Total Time: 4hrs
+  * Title: Radio Continuum Spectrum of the Most Massive and Radio-quiet Quasar at z = 6.3
+
+Observational Experiences 
+======
+* 2.16m telescope at Xinglong Observatory, NAOC, China
+  * 2 nights in 2016
+  * both imaging and spectroscopic observations
+* Remote observation using DEIMOS on 10m Keck II telescope at UCSC
+  * 2 nights in 2018
+  * under the supervision of Prof. Puragra Guha Thakurta
+  
+Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+ 
+References
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Prof. Puragra Guha Thakurta
+  * University of California Santa Cruz
+  * raja@ucolick.org
+
+* Prof. Eric Peng
+  * Peking University
+  * peng@pku.edu.cn
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Prof. Ran Wang
+  * Peking University
+  * rwangkiaa@pku.edu.cn
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Dr. Sungsoon Lim
+  * National Research Council of Canada
+  * xqlitw@gmail.com
+  
+* Dr. Yuting Feng
+  * University of California Santa Cruz
+  * yfeng47@ucsc.edu
+  
+* Dr. Qiong Li
+  * Peking University
+  * xqlitw@gmail.com
