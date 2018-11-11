@@ -33,17 +33,17 @@ Research Experience
   * Supervisor: Prof. Ran Wang
   * Oct. 2016 - Oct. 2018
   
- * Spectral Energy Distributions of Type 1 Quasars at z~6
+* Spectral Energy Distributions of Type 1 Quasars at z~6
   * Supervisor: Prof. Ran Wang
   * Mentor: Dr. Qiong Li
   * Mar. 2017 - Present
   
- * Spatial Substructures in M87 Globular Cluster System
+* Spatial Substructures in M87 Globular Cluster System
   * Supervisor: Prof. Eric Peng & Prof. Puragra Guha Thakurta
   * Mentor: Dr. Yuting Feng
   * Jun. 2017 - Present
   
- * HST Imaging on Globular Cluster System of Virgo Ultra-Diffuse Galaxy VLSB-B
+* HST Imaging on Globular Cluster System of Virgo Ultra-Diffuse Galaxy VLSB-B
   * Supervisor: Prof. Eric Peng & Prof. Puragra Guha Thakurta
   * Mentor: Dr. Sungsoon Lim
   * Aug. 2018 - Present
