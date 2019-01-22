@@ -58,15 +58,15 @@ Computer Skills
 
 Relevant Courses
 =====
-Astrophysics (3.81)
-Theoretical Mechanics (3.85)
-Fundamental Astronomy (3.85)
-Seminar for Astrophysics (3.79)
-Basics of Cosmological Physics (3.77) 
-Modern Physics (3.81) Electrodynamics (3.75)
-Astronomical Techniques and Methods II (3.75)
-Equilibrium Statistical Physics (3.88) Seminar for Quantum Mechanics (3.98)
-Supervised Independent Study (3.81) Astronomical Techniques and Methods I (3.97) 
+* Astrophysics (3.81)
+* Theoretical Mechanics (3.85)
+* Fundamental Astronomy (3.85)
+* Seminar for Astrophysics (3.79)
+* Basics of Cosmological Physics (3.77) 
+* Modern Physics (3.81) Electrodynamics (3.75)
+* Astronomical Techniques and Methods II (3.75)
+* Equilibrium Statistical Physics (3.88) Seminar for Quantum Mechanics (3.98)
+* Supervised Independent Study (3.81) Astronomical Techniques and Methods I (3.97) 
 
 Honors and Awards
 =====
