@@ -29,11 +29,11 @@ Internship
 
 Research Experience
 ======
-* Dust Emission and Star Formation Activities in High Redshift Weak Line Quasars
+* Dust Emission and Star Formation in High Redshift Weak Line Quasars
   * Supervisor: Prof. Ran Wang
   * Oct. 2016 - Oct. 2018
   
-* Spectral Energy Distributions of Type 1 Quasars at z~6
+* JCMT-SCUBA2 High Redshift Bright Quasar Survey-I: Far Infrared Properties and Weak Line Feature
   * Supervisor: Prof. Ran Wang
   * Mentor: Dr. Qiong Li
   * Mar. 2017 - Present
@@ -58,12 +58,19 @@ Computer Skills
 
 Relevant Courses
 =====
-
+Astrophysics (3.81)
+Theoretical Mechanics (3.85)
+Fundamental Astronomy (3.85)
+Seminar for Astrophysics (3.79)
+Basics of Cosmological Physics (3.77) 
+Modern Physics (3.81) Electrodynamics (3.75)
+Astronomical Techniques and Methods II (3.75)
+Equilibrium Statistical Physics (3.88) Seminar for Quantum Mechanics (3.98)
+Supervised Independent Study (3.81) Astronomical Techniques and Methods I (3.97) 
 
 Honors and Awards
 =====
-* First Prize of Linbridge Prize for Excellent Undergraduate Research Project in Astronomy and Astrophysics
-  Peking University, 2018
+* First Prize of Linbridge Prize for Excellent Undergraduate Research Project in Astronomy and Astrophysics, Peking University, 2018
 * Second  Prize  of  Linbridge  Prize  for  Excellent  Undergraduate  Research  Project  in  Astronomy  andAstrophysics, Peking University, 2017
 * Third  Prize  of  Linbridge  Prize  for  Excellent  Undergraduate  Research  Project  in  Astronomy  andAstrophysics, Peking University, 2016
 * Excellent Student Leader, Peking University, 2016
@@ -113,3 +120,11 @@ References
 * Dr. Sungsoon Lim
   * National Research Council of Canada
   * xqlitw@gmail.com
+  
+* Dr. Qiong Li
+  * Peking University
+  * xqlitw@gmail.com
+  
+* Dr. Yuting Feng
+  * University of California Santa Cruz
+  * yfeng47@ucsc.edu
