@@ -47,11 +47,6 @@ Research Experience
   * Supervisor: Prof. Eric Peng & Prof. Puragra Guha Thakurta
   * Mentor: Dr. Sungsoon Lim
   * Aug. 2018 - Present
- 
-Relevant Courses
-=====
-
- 
 
 Computer Skills
 ======
@@ -59,11 +54,16 @@ Computer Skills
 * Familiar with C; HTML; SQL; Mathematica; Matlab
 * Familiar with basic statistical methods in astrophysics, approaches to deal with large dataset
 * Experience with image data reduction in the optical and near infrared (e.g.  IRAF, GALFIT, SEx-tractor, Daophot, Tinytim etc.)
-* Experience with data processing in the far infrared, millimeter and radio (e.g.  HIPE, CASA, AIPSetc.)
+* Experience with data processing in the far infrared, millimeter and radio (e.g.  HIPE, CASA, AIPS etc.)
+
+Relevant Courses
+=====
+
 
 Honors and Awards
 =====
-* First Prize of Linbridge Prize for Excellent Undergraduate Research Project in Astronomy and Astrophysics, Peking University, 2018
+* First Prize of Linbridge Prize for Excellent Undergraduate Research Project in Astronomy and Astrophysics
+  Peking University, 2018
 * Second  Prize  of  Linbridge  Prize  for  Excellent  Undergraduate  Research  Project  in  Astronomy  andAstrophysics, Peking University, 2017
 * Third  Prize  of  Linbridge  Prize  for  Excellent  Undergraduate  Research  Project  in  Astronomy  andAstrophysics, Peking University, 2016
 * Excellent Student Leader, Peking University, 2016
@@ -112,12 +112,4 @@ References
   
 * Dr. Sungsoon Lim
   * National Research Council of Canada
-  * xqlitw@gmail.com
-  
-* Dr. Yuting Feng
-  * University of California Santa Cruz
-  * yfeng47@ucsc.edu
-  
-* Dr. Qiong Li
-  * Peking University
   * xqlitw@gmail.com
